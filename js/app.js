@@ -1,7 +1,7 @@
 $(function() {
     $('#bias').change(function() {
-      $('.mking').toggle();
       $('.cod').toggle();
+      $('.mking').toggle();
     });
     });
 
